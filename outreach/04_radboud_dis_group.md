@@ -31,7 +31,7 @@ I am based in London with a valid UK PSW visa and ready to relocate to Nijmegen.
 Thank you for your time.
 
 Best regards,
-Enish Shah
+Adbhut Shah
 MSc Cybersecurity (Distinction), University of West London
 GitHub: github.com/adbhutrd
 Medium: @anonwiz8
@@ -41,5 +41,5 @@ Medium: @anonwiz8
 **Tips for sending:**
 - Send to the general DiS group contact, or to the group lead if listed on ru.nl/digital-security
 - Reference specific DiS projects (Find2Fix, PQ-HINTS) — shows genuine interest
-- The applied focus of DiS matches well with Enish's practical tool-building background
+- The applied focus of DiS matches well with Adbhut's practical tool-building background
 - Follow up in 2 weeks if no response

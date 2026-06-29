@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
 authors = [
-    {name = "Enish Shah", email = "enish.b.shah@gmail.com"},
+    {name = "Adbhut Ram Das", email = "adbhutramdas@gmail.com"},
 ]
 keywords = [
     "post-quantum-cryptography",

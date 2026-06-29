@@ -2,7 +2,7 @@
 # University of Amsterdam / QuSoft
 # Role: Professor in Theoretical Computer Science, Director of QuSoft
 # Research: Quantum Cryptography, Cryptographic Protocols, Quantum Information Theory
-# Best match: Enish's MSc thesis on Mixed Quantum Computing + Cybersecurity
+# Best match: Adbhut's MSc thesis on Mixed Quantum Computing + Cybersecurity
 
 ---
 
@@ -30,7 +30,7 @@ I would be happy to share my thesis, CV, or any of my project work at your conve
 Thank you for your time.
 
 Best regards,
-Enish Shah
+Adbhut Shah
 MSc Cybersecurity (Distinction), University of West London
 GitHub: github.com/adbhutrd
 Medium: @anonwiz8

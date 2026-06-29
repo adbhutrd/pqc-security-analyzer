@@ -368,7 +368,7 @@ I've prepared tailored outreach emails to professors at Dutch universities whose
 
 ## 👤 About
 
-**Researcher:** Enish Shah
+**Researcher:** Adbhut Ram Das
 **Background:** MSc Cybersecurity (Distinction), University of West London
 **Thesis:** Mixed Quantum Computing and Cybersecurity: Post-Quantum Cryptography Readiness
 **Goal:** PhD position in Netherlands cybersecurity research
