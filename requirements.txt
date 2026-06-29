@@ -1,0 +1,16 @@
+# PQC Security Analyzer — Dependencies
+# For research: PhD preparation in Post-Quantum Cryptography
+# Python 3.8+
+
+# Core — no external dependencies required for scanning/analysis
+# The tool uses only Python stdlib (ast, re, hashlib, statistics, time, etc.)
+
+# Optional: HTML report generation uses only stdlib
+# Optional: Timing analysis uses only stdlib + hashlib
+
+# For development
+pytest>=7.0
+pytest-cov>=4.0
+
+# For linting
+flake8>=6.0
